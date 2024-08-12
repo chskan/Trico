@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>646591202266-7jb1700t6ohi7gbjcbvfcjn53qrv0lns.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.646591202266-7jb1700t6ohi7gbjcbvfcjn53qrv0lns</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>646591202266-cmohv4bdl3vusvfc5us7no5a9sokmptq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBV8kfLAYue32XEufEGhlBRmmbHfYIctZA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>646591202266</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>tn.esprit.trico</string>
+	<key>PROJECT_ID</key>
+	<string>oldie-care-ubp456</string>
+	<key>STORAGE_BUCKET</key>
+	<string>oldie-care-ubp456.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:646591202266:ios:9713a3a5fb9f45b2e536e3</string>
+</dict>
+</plist>
